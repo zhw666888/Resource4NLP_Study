@@ -4,7 +4,8 @@
 理论学习部分：
 
 代码部分：
-1.第一届智能对话诊疗评测比赛（CCL 2021）基线代码
+
+【1】第一届智能对话诊疗评测比赛（CCL 2021）基线代码
 
 比赛详情：http://www.fudan-disc.com/sharedtask/imcs21/index.html
 
