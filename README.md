@@ -11,3 +11,11 @@
 
 代码：https://github.com/Guardianzc/MedicalChatBox/tree/main/Track1_Medical%20Dialogue%20Understanding
 
+
+数据集部分：
+
+【NER】
+
+1.ResumeNER:Crawled from the Sina Finance, it includes the resumes of senior executives from listed companies in the Chinese stock market. 
+地址：https://github.com/jiesutd/LatticeLSTM/tree/master/ResumeNER
+
