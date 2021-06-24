@@ -20,7 +20,9 @@
 地址：https://github.com/jiesutd/LatticeLSTM/tree/master/ResumeNER
 
 2.CLUENER2020:细粒度命名实体识别
+
 地址：https://storage.googleapis.com/cluebenchmark/tasks/cluener_public.zip
+
 数据介绍：https://github.com/CLUEbenchmark/CLUENER2020
 
 
