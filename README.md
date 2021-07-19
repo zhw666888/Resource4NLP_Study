@@ -9,7 +9,7 @@
 
 比赛详情：http://www.fudan-disc.com/sharedtask/imcs21/index.html
 
-代码：https://github.com/Guardianzc/MedicalChatBox/tree/main/Track1_Medical%20Dialogue%20Understanding
+代码：https://github.com/Guardianzc/MedicalChatBox
 
 
 数据集部分：
