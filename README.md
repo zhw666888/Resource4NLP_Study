@@ -11,6 +11,13 @@
 
 代码：https://github.com/Guardianzc/MedicalChatBox
 
+【2】中文医疗信息处理基准CBLUE基线代码
+
+详情：https://tianchi.aliyun.com/dataset/dataDetail?dataId=95414
+
+代码：https://github.com/CBLUEbenchmark/CBLUE
+
+
 
 数据集部分：
 
