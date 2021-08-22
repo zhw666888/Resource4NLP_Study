@@ -36,6 +36,10 @@
 
 地址：https://github.com/hltcoe/golden-horse
 
+4.ontonotes4NER
+
+https://drive.google.com/file/d/1qH4NDMRYRZYX9CWPLyF5KQLTpX-vvm39/view
+
 
 
 
