@@ -32,6 +32,10 @@
 
 数据介绍：https://github.com/CLUEbenchmark/CLUENER2020
 
+3.WeiboNER：Named Entity Recognition (NER) for Chinese Social Media (Weibo). This dataset contains messages selected from Weibo and annotated according to the DEFT ERE annotation guidelines. Annotations include both name and nominal mentions. The corpus contains 1,890 messages sampled from Weibo between November 2013 and December 2014
+
+地址：https://github.com/hltcoe/golden-horse
+
 
 
 
