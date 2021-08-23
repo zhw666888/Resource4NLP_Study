@@ -3,6 +3,8 @@
 
 理论学习部分：
 
+
+
 代码部分：
 
 【1】第一届智能对话诊疗评测比赛（CCL 2021）基线代码
@@ -36,9 +38,17 @@
 
 地址：https://github.com/hltcoe/golden-horse
 
+数据介绍：
+
+https://github.com/OYE93/Chinese-NLP-Corpus/tree/master/NER/Weibo
+
 4.ontonotes4NER
 
 https://drive.google.com/file/d/1qH4NDMRYRZYX9CWPLyF5KQLTpX-vvm39/view
+
+5.MSRANER
+
+https://github.com/OYE93/Chinese-NLP-Corpus/tree/master/NER/MSRA
 
 
 
