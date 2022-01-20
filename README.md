@@ -50,6 +50,15 @@ https://drive.google.com/file/d/1qH4NDMRYRZYX9CWPLyF5KQLTpX-vvm39/view
 
 https://github.com/OYE93/Chinese-NLP-Corpus/tree/master/NER/MSRA
 
+6.CCKS2017
+
+数据介绍：
+
+https://www.biendata.xyz/competition/CCKS2017_2/
+
+数据获取：
+
+https://pan.baidu.com/s/1kVADq9D
 
 
 
