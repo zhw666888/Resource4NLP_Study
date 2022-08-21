@@ -60,5 +60,7 @@ https://www.biendata.xyz/competition/CCKS2017_2/
 
 https://pan.baidu.com/s/1kVADq9D
 
+7.Ontonotes5.0 Chinese NER dataset
+https://github.com/LindgeW/Ontonotes5.0-Chinese-NER
 
 
