@@ -64,4 +64,6 @@ https://pan.baidu.com/s/1kVADq9D
 
 https://github.com/LindgeW/Ontonotes5.0-Chinese-NER
 
+8.人民日报
 
+https://github.com/OYE93/Chinese-NLP-Corpus/tree/master/NER/People's%20Daily
