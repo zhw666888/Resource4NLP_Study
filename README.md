@@ -67,3 +67,11 @@ https://github.com/LindgeW/Ontonotes5.0-Chinese-NER
 8.人民日报
 
 https://github.com/OYE93/Chinese-NLP-Corpus/tree/master/NER/People's%20Daily
+
+9.GENIA dataset
+
+http://www.geniaproject.org/genia-corpus/pos-annotation
+
+处理：https://github.com/yahshibu/nested-ner-tacl2020-transformers
+
+10.
