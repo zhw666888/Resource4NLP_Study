@@ -74,4 +74,6 @@ http://www.geniaproject.org/genia-corpus/pos-annotation
 
 处理：https://github.com/yahshibu/nested-ner-tacl2020-transformers
 
-10.
+10.中药说明书TCMM
+
+https://tianchi.aliyun.com/dataset/dataDetail?dataId=86819
