@@ -77,3 +77,8 @@ http://www.geniaproject.org/genia-corpus/pos-annotation
 10.中药说明书TCMM
 
 https://tianchi.aliyun.com/dataset/dataDetail?dataId=86819
+
+
+11.Yidu-S4K：医渡云结构化4K数据集
+
+http://www.openkg.cn/dataset/yidu-s4k
